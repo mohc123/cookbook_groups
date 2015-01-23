@@ -7,6 +7,7 @@ This file is used to list changes made in each version of the groups cookbook.
 -----
 - Mark Olive - MOHC Initial release of groups (forked from mattuso/cookbook_groups)
 - - -
+
 0.1.0
 -----
 - Initial release of groups
