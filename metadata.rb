@@ -1,6 +1,6 @@
 name             'groups'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'MOHC Ltd'
+maintainer_email 'support@mohc.net'
 license          'All rights reserved'
 description      'Installs/Configures groups'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
